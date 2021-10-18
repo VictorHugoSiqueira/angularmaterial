@@ -1,27 +1,62 @@
 # Material
+This project was generated with Angular CLI version 11.2.11.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.8.
+Development server
+Run ng serve for a dev server. Navigate to http://localhost:4200/
 
-## Development server
+https://github.com/VictorHugoSiqueira/angularmaterial
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+# Sobre o projeto
 
-## Code scaffolding
+AngularMaterial é uma aplicação Frontend web utilizando Angular,
+é uma aplicação onde é possivel realizar um cadastro de usuário,efetuar login 
+e através de uma tabela é possivel visualizar os dados dos usuarios cadastrados.
+Dentro da tabela através de botões podemos editar,excluir e adcionar usuarios.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Layout Web para Login de Usuários
+![Web 1]()
 
-## Build
+## Layout web para cadastro de Usuários
+![Web 2]()
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## layout Web para visualização de Eventos
+![Web 3]()
 
-## Running unit tests
+## layout Web input de filtro funcionando com two way data binding
+![Web 3]()
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## layout Web modal de confirmação de exclusão de Evento
+![Web 3]()
 
-## Running end-to-end tests
+## layout Web modal de cadastro de Evento
+![Web 3]()
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## layout Web NgxToastr para mostrar erro ao editar Evento
+![Web 3]()
 
-## Further help
+## layout Web NgxToastr para mostrar sucesso ao editar Evento
+![Web 3]()
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+# Tecnologias Utilizadas
+## Front end
+- HTML / CSS / JS / TypeScript
+- Angular
+
+# Executando o projeto
+## Clonando o repositório
+git clone https://github.com/VictorHugoSiqueira/angularmaterial
+
+## Iniciando o back dos Eventos 
+<dt>1 - cd ProAgil.API</dt>
+<dt>2 - dotnet watch run</dt>
+
+## Iniciando a aplicação Web
+<dt>1 - cd ProAgil-App</dt>
+<dt>2 - npm install</dt>
+<dt>3 - ng serve</dt>
+
+# Autor
+
+Victor Hugo Fernandes Siqueira
+
+https://www.linkedin.com/in/victorsiqueira/
