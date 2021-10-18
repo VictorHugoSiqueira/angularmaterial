@@ -14,46 +14,25 @@ e através de uma tabela é possivel visualizar os dados dos usuarios cadastrado
 Dentro da tabela através de botões podemos editar,excluir e adcionar usuarios.
 
 ## Layout Web para Login de Usuários
-![Web 1]()
+![Web 1](https://github.com/VictorHugoSiqueira/angularmaterial/blob/master/material/src/assets/img/login.png)
 
 ## Layout web para cadastro de Usuários
-![Web 2]()
+![Web 2](https://github.com/VictorHugoSiqueira/angularmaterial/blob/master/material/src/assets/img/adcionarusuarios.png)
 
-## layout Web para visualização de Eventos
-![Web 3]()
+## layout Web para visualização de Usuários
+![Web 3](https://github.com/VictorHugoSiqueira/angularmaterial/blob/master/material/src/assets/img/dashboardusuarios.png)
 
-## layout Web input de filtro funcionando com two way data binding
-![Web 3]()
+## layout Web mensagem no Snack Bar
+![Web 3](https://github.com/VictorHugoSiqueira/angularmaterial/blob/master/material/src/assets/img/snackbar.png)
 
-## layout Web modal de confirmação de exclusão de Evento
-![Web 3]()
-
-## layout Web modal de cadastro de Evento
-![Web 3]()
-
-## layout Web NgxToastr para mostrar erro ao editar Evento
-![Web 3]()
-
-## layout Web NgxToastr para mostrar sucesso ao editar Evento
-![Web 3]()
 
 # Tecnologias Utilizadas
 ## Front end
 - HTML / CSS / JS / TypeScript
 - Angular
 
-# Executando o projeto
-## Clonando o repositório
+## Clonar o repositório
 git clone https://github.com/VictorHugoSiqueira/angularmaterial
-
-## Iniciando o back dos Eventos 
-<dt>1 - cd ProAgil.API</dt>
-<dt>2 - dotnet watch run</dt>
-
-## Iniciando a aplicação Web
-<dt>1 - cd ProAgil-App</dt>
-<dt>2 - npm install</dt>
-<dt>3 - ng serve</dt>
 
 # Autor
 
